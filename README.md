@@ -1,0 +1,1 @@
+Patika - Veri Yapıları ve Algoritmalar proje egzersizleri 1-2-3 
